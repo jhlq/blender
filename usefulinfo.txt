@@ -1,0 +1,5 @@
+Blender stderr: ~/.xsessionerrors
+To get a list of children for a parent object myparent: obList = [ob for ob in scn.objects if ob.parent is myparent]
+http://wiki.blender.org/index.php/Extensions:Py/Scripts
+pixabay
+In Blender 2.63 and certain prior versions, the curve needs to be changed from 3D to 2D shape in order for the polygon to show up, else you get an error. This can be changed by going into Object Data and, under the Shape heading, switching the curve from 3D to 2D.
