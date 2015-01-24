@@ -1,0 +1,73 @@
+z			transparent model
+num0			camera view
+shift+f			camera fly mode	
+w			specials menu
+f3 			save render
+shift+s			snap menu
+s			scale
+s, 7			scale 7x
+shift+scroll		pan vertically
+ctrl+scroll		pan horizontally
+ctrl+j			join objects
+alt+d			dependent copy
+shift+d			independent copy
+?ctrl+alt+num0		position camera at current view
+ctrl+1			subsurf mod
+r			rotate
+shift+z			lock global z
+p			start game engine
+shift+c			cursor to center
+ctrl+alt+shift+m	select non manifold geometry
+ctrl+t			make camera track selected object
+alt+c			close polygon
+
+Edit mode:
+e			extrude
+e,ctrl			snap
+b			border select
+e, -, ., 1		extrude inwards 0.1
+alt+rmb			select ring
+ctrl+num+		expand selection
+ctrl+d			duplicate
+p			make object separate
+l			select connected
+alt+c			convert
+num/			all by itself
+alt+m 			merge
+c			circle select
+ctrl+lmb		lasso, create vertex 
+ctrl+shift+lmb		inverted lasso
+ctrl+n			recalculate normals
+alt+r			spin
+ctrl+tab		select selection mode
+o			proportional editing
+shift+o			switch proportional mode
+shift+e 		crease subsurf
+ctrl+e			edges
+k			precise loop cut
+ctrl+r			auto loop cut
+shift+alt+lmb		loop select
+ctrl+t			triangulate
+ctrl+3			subsurf level 3 (render 2)
+ctrl+i			invert selection
+h			hide
+alt+h			unhide
+
+Object mode:
+m			move to layer
+g,shift			slow mo grab
+ctrl+p			parent
+alt+p			clear parents
+
+Bones:
+?alt+s			increase area of influence
+ctrl+tab		pose mode	
+
+Text editor:
+alt+m			convert to 3D text
+alt+p			run
+ctrl+space		auto-complete
+
+Curves:
+h			free toogle
+alt+c			close curve
